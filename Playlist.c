@@ -33,4 +33,4 @@ void inserirMusica(struct Musica playlist[], int *numMusicas) {
     } else {
         printf("A playlist esta cheia. Remova musicas antes de adicionar novas.\n");
     }
-}
+} 
